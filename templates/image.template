@@ -1,3 +1,6 @@
+<!-- Template that shows an image. The assets directory is copied into /build, so 
+     you can reference it like it's at the top level. -->
+
 <img src="assets/placeholder.png" alt="A placeholder image">
 <p>This page contains a placeholder image.</p>
 <a href="#index">Go back to the index page</a>

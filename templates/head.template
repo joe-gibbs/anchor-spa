@@ -1,3 +1,7 @@
+<!-- Default <head> template. You can replace anything in this 
+    file, or replace the file itself if you specify a new <head> template in 
+    config.json -->
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Anchor SPA</title>

@@ -1,3 +1,7 @@
+<!-- The index page is the page which is shown when the user opens the SPA without
+     navigating to a specific anchor. You can choose which page is the main page
+     in config.json. -->
+
 <h1>
     This is a test page. You can replace it with whatever you feel like.
 </h2>
