@@ -1,5 +1,7 @@
 # Anchor SPA
 
+![Anchor SPA demo](https://github.com/joe-gibbs/jgibbs.dev/blob/main/assets/anchor-spa-demo.gif?raw=true)
+
 Creates a single-page application using the CSS `:target` selector to hide and show pages.
 
 ## Installation
